@@ -35,6 +35,7 @@ también.
 automáticamente en la pantalla principal.
 
 #Gestión de productos
+
 • El listado de productos muestra todos los datos del producto.
 
 • Al hacer clic en el botón nuevo se muestra un formulario donde se podrán registrar nuevos productos (Nombre, marca, categoría, precio, cantidad disponible)
